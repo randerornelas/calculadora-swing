@@ -1,0 +1,5 @@
+package model;
+
+public enum CommandType {
+    RESET, NUMBER, DIVISION, MULTIPLICATION, SUM, SUBSTRACTION, COMMA, EQUALS, MINUS_SYMBOL
+}
